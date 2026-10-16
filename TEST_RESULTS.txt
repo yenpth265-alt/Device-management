@@ -1,0 +1,24 @@
+PASS | Mượn và trả đúng hạn
+PASS | Micro trả muộn 2 ngày
+PASS | Mượn thiết bị bảo trì không đổi dữ liệu
+PASS | Trợ giảng mượn thiết bị thứ ba
+PASS | Thêm cùng micro hai lần
+PASS | Micro 3 ngày vượt giới hạn 1 ngày
+PASS | Trả thiết bị ngoài phiếu
+PASS | Trả hai lần giữ nguyên ngày trả
+PASS | Ngày trả trước ngày mượn
+PASS | Số ngày 0/âm và thiết bị null
+PASS | Thiết bị đang được mượn ở phiếu khác
+PASS | Trả rồi mượn lại ở phiếu mới; không trả lại qua phiếu cũ
+PASS | Giới hạn tính cả item đã trả
+PASS | Danh sách item chỉ đọc
+PASS | Quá hạn và phí tạm tính tách khỏi phí đã chốt
+PASS | Phòng: null, trùng mã, tìm/xóa và kết tập
+PASS | Bảo trì đa hình
+PASS | Bảo trì: đúng 5 năm, trên 5 năm, trạng thái bảo trì
+PASS | Kiểm tra dữ liệu thiết bị
+PASS | Thông tin phiếu không hợp lệ
+PASS | Không bảo trì khi đang mượn
+PASS | Ngày trả null giữ nguyên dữ liệu
+PASS | Tràn ngày hạn trả không làm đổi thiết bị
+RESULT: 23 passed, 0 failed

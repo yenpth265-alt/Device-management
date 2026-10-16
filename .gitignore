@@ -1,0 +1,7 @@
+# Java build output
+/out/
+*.class
+
+# Temporary files
+*.tmp
+~$*
